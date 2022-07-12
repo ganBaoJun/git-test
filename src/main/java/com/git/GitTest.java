@@ -5,5 +5,6 @@ public class GitTest {
         System.out.println("hello git!");
         System.out.println("hello git2!");//蓝色被追踪过，但未修改
         System.out.println("hello git3!");//蓝色文件
+        System.out.println("hello git4!");
     }
 }
